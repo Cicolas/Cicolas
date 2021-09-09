@@ -1,4 +1,4 @@
-# Nicolas Carvalho (Cicolas Narvalho)
+# Nícolas Carvalho (Cicolas Narvalho)
 
 - 🗣: Português; English; Español
 - 🏫: Programação de Jogos Digitais em IFPR campus Curitiba
