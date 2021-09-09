@@ -1,8 +1,10 @@
 # Nicolas Carvalho (Cicolas Narvalho)
 
-- 🏫: Programação de Jogos Digitais em IFPR campus Curitiba
-- 👩‍💻: C#; Lua; Javascript
 - 🗣: Português; English; Español
+- 🏫: Programação de Jogos Digitais em IFPR campus Curitiba
+- 👩‍💻: C#; Lua; Javascript; Typescript
+- 🏠: Maringá, PR - Brasil
+- 👤: 17y/o
 
 ---
 
