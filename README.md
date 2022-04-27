@@ -1,12 +1,13 @@
 # Nícolas Carvalho (Cicolas Narvalho)
 
-- 🗣: Português; English; Español
-- 🏫: Programação de Jogos Digitais em IFPR campus Curitiba
-- 👩‍💻: C#; Lua; Javascript; Typescript
+- 🗣: Português; English(intermediate); Español(básico)
+- 🏫: Ciência da Computação em Universidade Estadual de Maringá 
+- 📚: programação de Jogos Digitais em IFPR campus Curitiba ✅
+- 👩‍💻: Typescript/Javascript; C#; Lua
 - 🏠: Maringá, PR - Brasil
 - 👤: 17y/o
 
----
+Veja: <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
 
 <div>
   <a href="https://nickelodeon0077.itch.io/" target="_blank">
