@@ -2,7 +2,7 @@
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Ciência da Computação em Universidade Estadual de Maringá 
-- 📚: programação de Jogos Digitais em IFPR campus Curitiba ✅
+- 📚: Programação de Jogos Digitais em IFPR campus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
 - 🏠: Maringá, PR - Brasil
 - 👤: 17y/o
