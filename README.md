@@ -5,7 +5,7 @@
 - 📚: Programação de Jogos Digitais em IFPR campus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
 - 🏠: Maringá, PR - Brasil
-- 👤: 17y/o
+- 👤: 18y/o
 
 Veja: <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
 
