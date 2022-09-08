@@ -2,10 +2,20 @@
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Ciência da Computação em Universidade Estadual de Maringá 
-- 📚: Programação de Jogos Digitais em IFPR campus Curitiba ✅
+- 📚: Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
+  - Web 🌎: Angular
+  - Server 📦: NodeJS; AWS
+  - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
-- 👤: 18y/o
+- 👤: 18y
+
+## Áreas de interesse
+
+Essas são algumas áreas que tenho interesse:
+- Desenvolvimento Web
+- Prog. Jogos Digitais 
+- Linguagens de Programação
 
 Veja: <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
 
@@ -15,8 +25,5 @@ Veja: <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo
   </a>
   <a href="https://instagram.com/Cicolas_" target="_blank">
     <image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://twitter.com/Cicolas_" target="_blank">
-    <image src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
   </a>
 </div>
