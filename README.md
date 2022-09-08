@@ -1,4 +1,4 @@
-# Nícolas Carvalho (Cicolas Narvalho)
+# Nícolas Carvalho
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Ciência da Computação em Universidade Estadual de Maringá 
