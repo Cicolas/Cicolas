@@ -1,8 +1,9 @@
 # Nícolas Carvalho
+nicolas.mnw@gmail.com
 
 - 🗣: Português; English(intermediate); Español(básico)
-- 🏫: Ciência da Computação em Universidade Estadual de Maringá 
-- 📚: Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
+- 🏫: Bacharelado de Ciência da Computação em Universidade Estadual de Maringá 
+- 📚: Técnico de Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
   - Web 🌎: Angular
   - Server 📦: NodeJS; AWS
