@@ -6,7 +6,7 @@ nicolas.mnw@gmail.com
 - 📚: Técnico de Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
   - Web 🌎: Angular
-  - Server 📦: NodeJS; AWS
+  - Server 📦: NodeJS
   - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
 - 👤: 18y
