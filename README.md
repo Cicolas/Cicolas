@@ -18,7 +18,10 @@ Essas são algumas áreas que tenho interesse:
 - Prog. Jogos Digitais 
 - Linguagens de Programação
 
-Veja: <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
+Veja: 
+  <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
+e Também:
+  <a href="https://gist.github.com/@cicolas" target="_blank">meus gist</a>
 
 <div>
   <a href="https://nickelodeon0077.itch.io/" target="_blank">
