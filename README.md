@@ -20,8 +20,9 @@ Essas são algumas áreas que tenho interesse:
 
 Veja: 
   <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
+  <br>
 e Também:
-  <a href="https://gist.github.com/@cicolas" target="_blank">meus gist</a>
+  <a href="https://gist.github.com/cicolas" target="_blank">Meus Gist</a>
 
 <div>
   <a href="https://nickelodeon0077.itch.io/" target="_blank">
