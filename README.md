@@ -5,7 +5,7 @@ nicolas.mnw@gmail.com
 - 🏫: Bacharelado de Ciência da Computação em Universidade Estadual de Maringá 
 - 📚: Técnico de Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C#; Lua
-  - Web 🌎: Angular
+  - Web 🌎: Angular; React
   - Server 📦: NodeJS
   - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
@@ -17,6 +17,18 @@ Essas são algumas áreas que tenho interesse:
 - Desenvolvimento Web
 - Prog. Jogos Digitais 
 - Linguagens de Programação
+
+## Tecnologias que estudo e meus projetos
+
+- Rust
+  - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Linguagem de Marcação)
+- Typescript / Javascript
+  - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Jogo de Palavras)
+  - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Biblioteca de Componentização para Jogos)
+  - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (Biblioteca de Componentização de UI)
+- _Projetos Inacabados..._
+  - <a href="https://github.com/Cicolas/Shield-Bash-Godot">Shield-Bash</a> (_'Boss Rush' feito no Godot_)
+  - <a href="https://github.com/Cicolas/Logisticities">Logisticities</a> (_Jogo de 'management' feito com THREE.js e Typescript_)
 
 Veja: 
   <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
