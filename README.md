@@ -22,6 +22,7 @@ Essas são algumas áreas que tenho interesse:
 
 - Rust
   - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Linguagem de Marcação)
+  - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Servidor TCP de chat)
 - Typescript / Javascript
   - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Jogo de Palavras)
   - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Biblioteca de Componentização para Jogos)
