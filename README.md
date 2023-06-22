@@ -32,10 +32,9 @@ Essas são algumas áreas que tenho interesse:
   - <a href="https://github.com/Cicolas/Logisticities">Logisticities</a> (_Jogo de 'management' feito com THREE.js e Typescript_)
 
 Veja: 
-  <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a>
-  <br>
-e Também:
-  <a href="https://gist.github.com/cicolas" target="_blank">Meus Gist</a>
+  <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a> /
+  <a href="https://gist.github.com/cicolas" target="_blank">Meus Gist</a> /
+  <a href="https://github.com/CicolasCarvalho" target="_blank">Meu github de trabalhos da UEM</a>
 
 <div>
   <a href="https://nickelodeon0077.itch.io/" target="_blank">
