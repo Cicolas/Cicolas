@@ -4,12 +4,12 @@ nicolas.mnw@gmail.com
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bacharelado de Ciência da Computação em Universidade Estadual de Maringá 
 - 📚: Técnico de Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
-- 👩‍💻: Typescript/Javascript; C#; Lua
-  - Web 🌎: Angular; React
+- 👩‍💻: Typescript/Javascript; C; C#; Lua
+  - Web 🌎: Angular; Next (React);
   - Server 📦: NodeJS
   - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
-- 👤: 18y
+- 👤: 19y
 
 ## Áreas de interesse
 
