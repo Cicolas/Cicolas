@@ -20,6 +20,8 @@ Essas são algumas áreas que tenho interesse:
 
 ## Tecnologias que estudo e meus projetos
 
+- C
+  - <a href="https://github.com/Cicolas/XML-parser">XML-parser</a> (Parser de XML)
 - Rust
   - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Linguagem de Marcação)
   - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Servidor TCP de chat)
