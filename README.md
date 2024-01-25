@@ -3,7 +3,7 @@ nicolas.mnw@gmail.com
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
-- 📚: Technical degree in Digital Games Programming At IFPR câmpus Curitiba ✅
+- 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C; C#; Lua
   - Web 🌎: Angular; Next (React);
   - Server 📦: NodeJS
@@ -30,7 +30,7 @@ These are some areas that i have interest to work with:
   - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Wordle-like game)
   - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Component Game Library)
   - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (Component UI Library)
-- _Projetos Inacabados..._
+- _Unfinished Projects..._
   - <a href="https://github.com/Cicolas/Shield-Bash-Godot">Shield-Bash</a> (_'Boss Rush' in Godot_)
   - <a href="https://github.com/Cicolas/Logisticities">Logisticities</a> (_management game made with THREE.js and Typescript_)
 
