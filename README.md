@@ -2,8 +2,8 @@
 nicolas.mnw@gmail.com
 
 - 🗣: Português; English(intermediate); Español(básico)
-- 🏫: Bacharelado de Ciência da Computação em Universidade Estadual de Maringá 
-- 📚: Técnico de Programação de Jogos Digitais em IFPR câmpus Curitiba ✅
+- 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
+- 📚: Technical degree in Digital Games Programming At IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C; C#; Lua
   - Web 🌎: Angular; Next (React);
   - Server 📦: NodeJS
@@ -11,32 +11,33 @@ nicolas.mnw@gmail.com
 - 🏠: Maringá, PR - Brasil
 - 👤: 19y
 
-## Áreas de interesse
+## Areas of Interest
 
-Essas são algumas áreas que tenho interesse:
-- Desenvolvimento Web
-- Prog. Jogos Digitais 
-- Linguagens de Programação
+These are some areas that i have interest to work with:
+- Web Development
+- Programming Languages 
+- Pentesting
+- Game Development
 
-## Tecnologias que estudo e meus projetos
+## Techs that I study and Projects
 
 - C
-  - <a href="https://github.com/Cicolas/XML-parser">XML-parser</a> (Parser de XML)
+  - <a href="https://github.com/Cicolas/XML-parser">XML-parser</a> (XML Parser)
 - Rust
-  - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Linguagem de Marcação)
-  - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Servidor TCP de chat)
+  - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Markup Language)
+  - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Chat TCP Server)
 - Typescript / Javascript
-  - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Jogo de Palavras)
-  - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Biblioteca de Componentização para Jogos)
-  - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (Biblioteca de Componentização de UI)
+  - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Wordle-like game)
+  - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Component Game Library)
+  - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (Component UI Library)
 - _Projetos Inacabados..._
-  - <a href="https://github.com/Cicolas/Shield-Bash-Godot">Shield-Bash</a> (_'Boss Rush' feito no Godot_)
-  - <a href="https://github.com/Cicolas/Logisticities">Logisticities</a> (_Jogo de 'management' feito com THREE.js e Typescript_)
+  - <a href="https://github.com/Cicolas/Shield-Bash-Godot">Shield-Bash</a> (_'Boss Rush' in Godot_)
+  - <a href="https://github.com/Cicolas/Logisticities">Logisticities</a> (_management game made with THREE.js and Typescript_)
 
-Veja: 
+See Also: 
   <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a> /
-  <a href="https://gist.github.com/cicolas" target="_blank">Meus Gist</a> /
-  <a href="https://github.com/CicolasCarvalho" target="_blank">Meu github de trabalhos da UEM</a>
+  <a href="https://gist.github.com/cicolas" target="_blank">My Gist</a> /
+  <a href="https://github.com/CicolasCarvalho" target="_blank">My University's Homeworks and Projects</a>
 
 <div>
   <a href="https://nickelodeon0077.itch.io/" target="_blank">
