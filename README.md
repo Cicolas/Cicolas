@@ -23,7 +23,7 @@ These are some areas that i have interest to work with:
 - C
   - <a href="https://github.com/Cicolas/XML-parser">XML-parser</a> (XML Parser)
 - Rust
-  - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Markup Language)
+  - <a href="https://github.com/Cicolas/rust-ML">rust-ML</a> (Markup Language)
   - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Chat TCP Server)
   - <a href="https://github.com/Cicolas/rust-text-editor">rust-text-editor</a> (Vim-like text editor)
 - Typescript / Javascript
