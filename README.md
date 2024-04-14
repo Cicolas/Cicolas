@@ -14,10 +14,10 @@ nicolas.mnw@gmail.com
 ## Areas of Interest
 
 These are some areas that i have interest to work with:
+- System Programming
 - Web Development
 - Programming Languages 
 - Pentesting
-- Game Development
 
 ## Techs that I study and Projects
 
@@ -26,6 +26,7 @@ These are some areas that i have interest to work with:
 - Rust
   - <a href="https://github.com/Cicolas/rust-DOM">rust-DOM</a> (Markup Language)
   - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Chat TCP Server)
+  - <a href="https://github.com/Cicolas/rust-text-editor">rust-text-editor</a> (Vim-like text editor)
 - Typescript / Javascript
   - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Wordle-like game)
   - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Component Game Library)
