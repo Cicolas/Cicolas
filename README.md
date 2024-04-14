@@ -1,5 +1,4 @@
 # Nícolas Carvalho
-nicolas.mnw@gmail.com
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
