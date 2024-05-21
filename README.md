@@ -5,7 +5,7 @@
 - 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C; C#; Lua
   - Web 🌎: Angular; Next (React);
-  - Server 📦: NodeJS
+  - Server 📦: NodeJS; sailsjs; MySQL
   - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
 - 👤: 19y
