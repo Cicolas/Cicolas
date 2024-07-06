@@ -27,6 +27,7 @@ These are some areas that i have interest to work with:
   - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Chat TCP Server)
   - <a href="https://github.com/Cicolas/rust-text-editor">rust-text-editor</a> (Vim-like text editor)
 - Typescript / Javascript
+  - <a href="https://github.com/Cicolas/Emojie">Emojie</a> (AI guess the movie by emojis)
   - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Wordle-like game)
   - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Component Game Library)
   - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (Component UI Library)
