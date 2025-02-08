@@ -8,7 +8,7 @@
   - Server 📦: NodeJS; sailsjs; MySQL
   - Games 👾: Unity; Godot
 - 🏠: Maringá, PR - Brasil
-- 👤: 19y
+- 👤: 20y
 
 ## Areas of Interest
 
