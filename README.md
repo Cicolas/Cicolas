@@ -3,10 +3,11 @@
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
 - 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
-- 👩‍💻: Typescript/Javascript; C; C#; Lua
-  - Web 🌎: Angular; Next (React);
-  - Server 📦: NodeJS; sailsjs; MySQL
+- 👩‍💻: Typescript/Javascript; C; Rust; C#; Lua
+  - Web 🌎: Angular; Next (React); JS Templates
+  - Server 📦: NodeJS; SailsJs; SQL
   - Games 👾: Unity; Godot
+  - Tooling 🪛: Git; Redis; MySQL;
 - 🏠: Maringá, PR - Brasil
 - 👤: 20y
 
@@ -15,8 +16,8 @@
 These are some areas that i have interest to work with:
 - System Programming
 - Web Development
-- Programming Languages 
-- Pentesting
+- Programming Languages
+- Embedded System
 
 ## Techs that I study and Projects
 
