@@ -16,7 +16,7 @@
 
 Hi, my name is Nícolas, I'm a backend engineer for 2 years, working with Sails.js (a javascript framework built on top of express) i could have a lot of experience on code refactoring, reviewing, and analysis. Developed systems that could scale and deploying them on AWS EC2s, i had experience with techs like: Websockets with Socket.io to reduce TCP round trip overhead, and Redis to cache sessions and handle job queueing (BullMQ).
 
-My main area of actuation is on Node js environmnets, from setting up the server, developing the application up to monitoring, troubleshooting, managing developer and so on...
+My main area of actuation is on Node js environmnets, from setting up the server, developing the application up to monitoring, troubleshooting, managing the development pipeline and so on...
 
 If you have interest on calling me for a project, send me an e-mail!
 
