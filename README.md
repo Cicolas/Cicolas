@@ -5,7 +5,7 @@
 - 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
 - 👩‍💻: Typescript/Javascript; C; Rust; C#; Lua
   - Frontend 🌎: **Angular**; **Next (React)**; **EJS**; **Firebase Analytics**
-  - Backend 📦: **Node.js**; **Sails**; **Express**; **SQL**; **Redis**; **AWS Rekognition, Lambdas**; **Socket.io**;
+  - Backend 📦: **Node.js**; **Sails**; **Nestjs**; **Express**; **SQL**; **Redis**; **AWS Rekognition, Lambdas**; **Socket.io**;
   - Infrastructuring: **AWS EC2, S3, Cloudfront, ELB**; **Firebase Realtime Database**; **MySQL**; 
   - Tooling 🪛: **Git**; **Redis**; **PM2 Ecosystems**; **SSH configuration**; **Docker**; **Docker Compose**; **Github Actions**
   - Monitoring 📡: **Slack Bots**, **New Relic**, **Winston**;
