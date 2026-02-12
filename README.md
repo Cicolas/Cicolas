@@ -14,9 +14,11 @@
 
 ## About Me
 
-Hi, my name is Nícolas, I'm a backend engineer for 2 years, working with Sails.js (a javascript framework built on top of express) i could have a lot of experience on code refactoring, reviewing, and analysis. Developed systems that could scale and deploying them on AWS EC2s, i had experience with techs like: Websockets with Socket.io to reduce TCP round trip overhead, and Redis to cache sessions and handle job queueing (BullMQ).
+Hi, my name is Nícolas, I'm a backend engineer for 2 years, working with nestjs i could have a lot of experience on system design, code refactoring, team reviewing, analysis. Developed systems that could be developed fast with a good manutenability using technologies as AWS EC2s, Nestjs, Better Auth, Redis and AWS RDS i could manage a safe and fast development. 
 
-My main area of actuation is on Node js environmnets, from setting up the server, developing the application up to monitoring, troubleshooting, managing the development pipeline and so on...
+Nowadays i work on a Nestjs project as a software architect i could develop schemas and interfaces that helped a lot on the development time, and improve Agentic AI understanding over the platform. Due to a good pre analysis of the application the new schemas and patterns lead to a development ~400% of a basic feature like TOTP (google authenticator) verification (_compared to the old implementation of the same platform, that took two whole working days_). The new architecture as long with good documentation and the use of Agentic AI assisted development, lead to this huge inprovement on development time.
+
+My main area is on software architecturing of Web servers, my actuation is most on designing web servers focused on social platforms.
 
 If you have interest on calling me for a project, send me an e-mail!
 
