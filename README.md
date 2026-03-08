@@ -25,8 +25,7 @@ If you have interest on calling me for a project, send me an e-mail!
 ## Techs 
 
 - Rust
-  - <a href="https://github.com/Cicolas/rust-ML">rust-ML</a> (Markup Language)
-  - <a href="https://github.com/Cicolas/TCP-Chat-Server">TCP-Chat-Server</a> (Chat TCP Server)
+  - <a href="https://github.com/Cicolas/sheesh-rs">Sheesh RS</a> (LLM Agent that can handle SSH connections)
   - <a href="https://github.com/Cicolas/rust-text-editor">rust-text-editor</a> (Vim-like text editor)
 - Typescript / Javascript
   - <a href="https://github.com/Cicolas/Emojie">Emojie</a> (AI guess the movie by emojis)
