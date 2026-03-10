@@ -3,12 +3,13 @@
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
 - 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
-- 👩‍💻: Typescript/Javascript; C; Rust; C#; Lua
+- 👩‍💻: Typescript/Javascript; C; Rust; C#; Lua; Python;
   - Frontend 🌎: **Angular**; **Next (React)**; **EJS**; **Firebase Analytics**
   - Backend 📦: **Node.js**; **Sails**; **Nestjs**; **Express**; **SQL**; **Redis**; **AWS Rekognition, Lambdas**; **Socket.io**;
   - Infrastructuring: **AWS EC2, S3, Cloudfront, ELB**; **Firebase Realtime Database**; **MySQL**; 
   - Tooling 🪛: **Git**; **Redis**; **PM2 Ecosystems**; **SSH configuration**; **Docker**; **Docker Compose**; **Github Actions**
-  - Monitoring 📡: **Slack Bots**, **New Relic**, **Winston**, **OpenTelemetry (OTel)**;
+  - Monitoring 📡: **New Relic**, **Winston**, **OpenTelemetry (OTel)**;
+  - Bot development: **Slack Bots**; **Telegram Bots**; 
 - 🏠: Maringá, PR - Brasil
 - 👤: 21y
 
