@@ -8,7 +8,7 @@
   - Backend 📦: **Node.js**; **Sails**; **Nestjs**; **Express**; **SQL**; **Redis**; **AWS Rekognition, Lambdas**; **Socket.io**;
   - Infrastructuring: **AWS EC2, S3, Cloudfront, ELB**; **Firebase Realtime Database**; **MySQL**; 
   - Tooling 🪛: **Git**; **Redis**; **PM2 Ecosystems**; **SSH configuration**; **Docker**; **Docker Compose**; **Github Actions**
-  - Monitoring 📡: **Slack Bots**, **New Relic**, **Winston**;
+  - Monitoring 📡: **Slack Bots**, **New Relic**, **Winston**, **OpenTelemetry (OTel)**;
 - 🏠: Maringá, PR - Brasil
 - 👤: 21y
 
