@@ -22,18 +22,7 @@ My main area is on software architecturing of Web servers, my actuation is most 
 
 If you have interest on calling me for a project, send me an e-mail!
 
-## Techs 
-
-- Rust
-  - <a href="https://github.com/Cicolas/sheesh-rs">Sheesh RS</a> (LLM Agent that can handle SSH connections)
-  - <a href="https://github.com/Cicolas/rust-text-editor">rust-text-editor</a> (Vim-like text editor)
-- Typescript / Javascript
-  - <a href="https://github.com/Cicolas/Emojie">Emojie</a> (AI guess the movie by emojis)
-  - <a href="https://github.com/Cicolas/Anagramaaa">Anagramaaa</a> (Wordle-like game)
-  - <a href="https://github.com/Cicolas/CUASAR-LIB">CUASAR-LIB</a> (Game Component Library)
-  - <a href="https://github.com/Cicolas/TELESCOPE-LIB">TELESCOPE-LIB</a> (UI Component Library)
-
-See Also: 
+## See Also: 
   <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a> /
   <a href="https://gist.github.com/cicolas" target="_blank">My Gist</a> /
   <a href="https://github.com/CicolasCarvalho" target="_blank">My University's Homeworks and Projects</a>
