@@ -24,8 +24,7 @@ If you have interest on calling me for a project, send me an e-mail!
 
 ## See Also: 
   <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a> /
-  <a href="https://gist.github.com/cicolas" target="_blank">My Gist</a> /
-  <a href="https://github.com/CicolasCarvalho" target="_blank">My University's Homeworks and Projects</a>
+  <a href="https://gist.github.com/cicolas" target="_blank">My Gist</a>
 
 <div>
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-carvalho-2bb701252/" target="_blank">
