@@ -19,7 +19,7 @@ Hi, my name is Nícolas, I'm a backend engineer for 2 years, working with nestjs
 
 Nowadays i work on a Nestjs project as a software architect. I could develop schemas and interfaces that speeds the development time, and improve Agentic AI understanding over the platform. Due to a good pre analysis of the application and the new schemas we could increase the development of a basic feature like TOTP (google authenticator) verification in ~400%! (_compared to the old implementation of the same platform, that took two whole working days_). The new architecture as long with good documentation and the use of Agentic AI assisted development, lead to this huge inprovement on development time.
 
-My main area is architecting web servers, and now my actuation is most on designing web servers focused on social platforms.
+My main area is on web servers architecture focused on social platforms.
 
 If you have interest on calling me for a project, send me an e-mail!
 
