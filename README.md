@@ -11,7 +11,7 @@
   - Monitoring 📡: **New Relic**, **Winston**, **OpenTelemetry (OTel)**;
   - Bot development 🤖: **Slack Bots**; **Telegram Bots**; 
 - 🏠: Maringá, PR - Brasil
-- 👤: 21y
+- 👤: 22y
 
 ## About Me
 
