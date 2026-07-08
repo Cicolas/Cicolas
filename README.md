@@ -2,7 +2,7 @@
 
 - 🗣: Português; English(intermediate); Español(básico)
 - 🏫: Bachelor's degree in Computer Science at Universidade Estadual de Maringá 
-- 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba ✅
+- 📚: Technical degree in Digital Games Programming at IFPR câmpus Curitiba
 - 👩‍💻: Typescript/Javascript; C; Rust; C#; Lua; Python;
   - Frontend 🌎: **Angular**; **Next (React)**; **EJS**; **Firebase Analytics**
   - Backend 📦: **Node.js**; **Sails**; **Nestjs**; **Express**; **SQL**; **Redis**; **AWS Rekognition, Lambdas**; **Socket.io**;
