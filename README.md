@@ -15,17 +15,11 @@
 
 ## About Me
 
-Hi, my name is Nícolas, I'm a backend engineer for 2 years, working with nestjs i could have a lot of experience on system design, code refactoring, team reviewing, analysis. Developed systems that could be developed fast with a good manutenability using technologies as AWS EC2s, Nestjs, Better Auth, Redis and AWS RDS i could manage a safe and fast development. 
-
-Nowadays i work on a Nestjs project as a software architect. I could develop schemas and interfaces that speeds the development time, and improve Agentic AI understanding over the platform. Due to a good pre analysis of the application and the new schemas we could increase the development of a basic feature like TOTP (google authenticator) verification in ~400%! (_compared to the old implementation of the same platform, that took two whole working days_). The new architecture as long with good documentation and the use of Agentic AI assisted development, lead to this huge inprovement on development time.
+Hi, my name is Nícolas, I'm a backend engineer for 3 years, working with Nestjs i could have a lot of experience on system design, code refactoring, team review and code analysis. I Developed systems that reduced the Time-To-Market from months to weeks by planing and designing workflows and architecture AI-compatible. 
 
 My main area is on web servers architecture focused on social platforms.
 
 If you have interest on calling me for a project, send me an e-mail!
-
-## See Also: 
-  <a href="https://npmjs.com/package/@cicolas/todo-cli" target="_blank">Todo CLI(npm)</a> /
-  <a href="https://gist.github.com/cicolas" target="_blank">My Gist</a>
 
 <div>
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-carvalho-2bb701252/" target="_blank">
