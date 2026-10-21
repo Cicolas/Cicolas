@@ -15,7 +15,9 @@
 
 ## About Me
 
-Hi, my name is Nícolas, I'm a backend engineer for 3 years, working with Nestjs i could have a lot of experience on system design, code refactoring, team review and code analysis. I Developed systems that reduced the Time-To-Market from months to weeks by planing and designing workflows and architecture AI-compatible. 
+Hi, my name is Nícolas, I'm a backend engineer for 3 years, working with Nestjs i could have a lot of experience on system design, code refactoring, team review and code analysis. I Developed systems that reduced the Time-To-Market from months to under a week* by planing and designing workflows and architecture AI-compatible. 
+
+*I was the head architect of a rewrite in which, after the deployment the same feature related to payments and coin-system that was done in one month in the legacy architecture, could be done in 2 Backend working days and 3 Frontend working days.
 
 My main area is on web servers architecture focused on social platforms.
 
